@@ -47,7 +47,7 @@ SQL • Power BI • Python • Snowflake • Data Modeling • ETL / ELT
 
 ## Additional Expertise
 
-**Applied Data Science**
+**Data Science**
 - Statistical modeling
 - Time-series analysis
 - Feature engineering
