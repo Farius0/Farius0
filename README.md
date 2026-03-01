@@ -1,7 +1,7 @@
 # Farius Aina
 
 Data Analytics & Decision Support  
-Focused on structured data modeling, KPI engineering, and business-oriented analytics.
+Focused on structured data modeling, KPI engineering, and scalable decision-support systems.
 
 ---
 
@@ -10,7 +10,7 @@ Focused on structured data modeling, KPI engineering, and business-oriented anal
 - Data Warehouse architectures (SQL Server & Snowflake)
 - KPI-driven SQL analytics
 - Power BI decision dashboards
-- Python-based analytical workflows
+- Python-based analytical and statistical workflows
 
 I design systems that transform structured data into decision-ready outputs.
 
@@ -41,7 +41,22 @@ SQL • Power BI • Python • Snowflake • Data Modeling • ETL / ELT
 - Structured analytics  
 - Financially precise KPI engineering  
 - Scalable reporting systems  
-- Clean architectural design  
+- Clean and scalable data architecture  
+
+---
+
+## Additional Expertise
+
+**Applied Data Science**
+- Statistical modeling
+- Time-series analysis
+- Feature engineering
+- Python analytical workflows
+
+**Image Processing**
+- Image segmentation & denoising
+- Multidimensional (2D / 3D / ND) analysis
+- Medical imaging applications
 
 ---
 
