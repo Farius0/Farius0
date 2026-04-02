@@ -9,7 +9,7 @@ Focused on structured data modeling, KPI engineering, and scalable decision-supp
 
 - Data Warehouse architectures (SQL Server & Snowflake)
 - KPI-driven SQL analytics
-- Power BI decision dashboards
+- Power BI, Tableau & Qlik Sense decision dashboards
 - Python-based analytical and statistical workflows
 
 I design systems that transform structured data into decision-ready outputs.
@@ -32,7 +32,7 @@ Production-style KPI engineering & reporting views.
 
 ## Technical Stack
 
-SQL • Power BI • Python • Snowflake • Data Modeling • ETL / ELT  
+SQL • Power BI • Tableau • Qlik Sense • Python • Snowflake • Data Modeling • ETL / ELT  
 
 ---
 
